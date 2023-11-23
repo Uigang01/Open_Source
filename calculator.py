@@ -9,7 +9,6 @@ def sub(a, b):
 def mul(a, b):
     return a*b
 
-#divide
 def def_premium(a, b):
     return a/b
 
