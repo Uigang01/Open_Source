@@ -12,3 +12,7 @@ def mul(a, b):
 #divide
 def def_premium(a, b):
     return a/b
+
+#power
+def power(a):
+    return a*a
