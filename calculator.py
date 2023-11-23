@@ -15,3 +15,6 @@ def def_premium(a, b):
 #power
 def power(a):
     return a*a
+
+def mix(a, b, c):
+    return a+b+c
